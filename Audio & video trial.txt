@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Audio trial</title>
+</head>
+<body>
+<audio src="Song.mp3" controls></audio>
+<video src="NationalAnthem.mp4" controls></video>
+</body>
+</html>
